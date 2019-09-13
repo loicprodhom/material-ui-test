@@ -4,6 +4,7 @@ import ButtonExamples from "./ButtonExamples";
 import SliderExamples from "./SliderExamples";
 import TextFieldExamples from "./TextFieldExamples";
 import RadioButtonExamples from "./RadioButtonExamples";
+import CheckBoxExamples from "./CheckBoxExamples";
 
 function App() {
   return (
@@ -15,6 +16,8 @@ function App() {
       <TextFieldExamples />
       <br />
       <RadioButtonExamples />
+      <br />
+      <CheckBoxExamples />
       <br />
     </div>
   );
