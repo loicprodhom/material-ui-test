@@ -2,6 +2,10 @@ import { Button } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import React from "react";
 
+/**
+ * A few button examples, with different variants, sizes and colours
+ */
+
 const ButtonExamples = () => {
   const classes = makeStyles(theme => ({
     button: {

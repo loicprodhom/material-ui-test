@@ -2,6 +2,11 @@ import { Slider, Typography } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import React from "react";
 
+/**
+ * Simple discrete sliders, with different options, such as mark restriction,
+ * step value, and value display
+ */
+
 const DiscreteSlider = () => {
   const classes = makeStyles(theme => ({
     root: {

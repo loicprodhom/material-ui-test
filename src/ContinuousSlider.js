@@ -9,6 +9,11 @@ const useStyles = makeStyles({
   }
 });
 
+/**
+ * Simple continuous sliders, wrapped in Grid components (they adjust the size of
+ * GridItems based on available space percentage)
+ */
+
 const ContinuousSlider = () => {
   const classes = useStyles();
   const [value, setValue] = useState(30);

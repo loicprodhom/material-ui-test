@@ -7,6 +7,11 @@ import {
   Radio
 } from "@material-ui/core";
 
+/**
+ * Simple radio button example, with the radio buttons wrapped in a FormControlLabel
+ * component, and the radio button group wrapped in a FormControl component
+ */
+
 const RadioButtonExamples = () => {
   return (
     <div>

@@ -7,6 +7,10 @@ import {
 } from "@material-ui/core";
 import { Checkbox } from "@material-ui/core";
 
+/**
+ * Simple Checkbox example, wrapped in a FormControl
+ */
+
 const CheckboxExamples = () => {
   return (
     <div>

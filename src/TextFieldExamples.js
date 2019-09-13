@@ -1,6 +1,11 @@
 import React, { useState } from "react";
 import { TextField, MenuItem } from "@material-ui/core";
 
+/**
+ * Several input examples using the TextField component (examples include plain text,
+ * password input, dropdown picker, and date and time pickers)
+ */
+
 const TextFieldExamples = () => {
   const [input, setInput] = useState("");
   const [value, setValue] = useState("EUR");
