@@ -3,6 +3,7 @@ import "./App.css";
 import ButtonExamples from "./ButtonExamples";
 import SliderExamples from "./SliderExamples";
 import TextFieldExamples from "./TextFieldExamples";
+import RadioButtonExamples from "./RadioButtonExamples";
 
 function App() {
   return (
@@ -12,6 +13,8 @@ function App() {
       <SliderExamples />
       <br />
       <TextFieldExamples />
+      <br />
+      <RadioButtonExamples />
       <br />
     </div>
   );
