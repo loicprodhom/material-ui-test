@@ -4,7 +4,7 @@ import ButtonExamples from "./ButtonExamples";
 import SliderExamples from "./SliderExamples";
 import TextFieldExamples from "./TextFieldExamples";
 import RadioButtonExamples from "./RadioButtonExamples";
-import CheckBoxExamples from "./CheckBoxExamples";
+import CheckBoxExamples from "./CheckboxExamples";
 
 function App() {
   return (
