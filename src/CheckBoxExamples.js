@@ -15,6 +15,7 @@ const CheckboxExamples = () => {
         <FormGroup>
           <FormControlLabel label="Option 1" control={<Checkbox value="1" />} />
           <FormControlLabel label="Option 2" control={<Checkbox value="2" />} />
+          <FormControlLabel label="Option 3" control={<Checkbox value="3" />} />
         </FormGroup>
       </FormControl>
     </div>
